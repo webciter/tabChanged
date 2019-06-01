@@ -1,5 +1,5 @@
 # tabChanged
-An extention to the window object to detect focus and blur
+An extension to the window object to detect focus and blur
 
 <h2>Events</h2>
 
